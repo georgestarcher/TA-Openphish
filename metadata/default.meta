@@ -1,0 +1,9 @@
+[]
+access = read : [ * ], write : [ * ]
+export = system
+owner = nobody
+
+### VIEWSTATES: even normal users should be able to create shared viewstates
+
+[viewstates]
+access = read : [ * ], write : [ * ]
