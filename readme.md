@@ -33,7 +33,7 @@ You will need a Openphish.com login and to know which feed type you were assigne
     
 		1. Enter a cron schedule such as the following for every five minutes: */5 * * * *
 			
-        2. Set the sourcetype ot Manual and enter openphish
+        2. Set the sourcetype of Manual and enter openphish
         	
         3. I recommend using openphish.com as the host value.
         	
